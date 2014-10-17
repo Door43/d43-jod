@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[jod:home|Door43 (jod)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-jod|d43-jod repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-jod/archive/master.zip|d43-jod.zip]]
+
+**Recent Changes**
+{{changes>ns = jod}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/jod|Ethnologue data]]
+
